@@ -1,0 +1,13 @@
+This is the new file that I added
+
+
+
+Crate NEW FILE CALLED file.txt
+commit the change
+
+Edit the content of file3.txt save and commit again
+
+Edit both files file1.txt and file2.txt , observe the change in Github Desktop and commit both changes in one shot
+
+
+Editing this repository
